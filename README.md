@@ -32,7 +32,12 @@ Info and references
 2. TensorFlow:https://www.tensorflow.org/
 3. Keras: https://keras.io/
 
+### Quantum Computing
 
+1. IBM Q-Experience : https://www.ibm.com/quantum-computing
+2. Qiskit: https://qiskit.org/documentation/index.html
+3. Rigetti: https://www.rigetti.com/systems
+4. Quantum Inspire: https://www.quantum-inspire.com/
 
 
 
