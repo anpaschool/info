@@ -4,6 +4,9 @@ Info and references
 ### Python
 1. Anaconda Downloads:https://www.anaconda.com/distribution/
 
+### Podcast
+
+
 
 ### Clouds
 1. AWS: https://aws.amazon.com/
