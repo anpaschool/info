@@ -6,7 +6,7 @@ Info and references
 
 ### Podcast
 
-
+1. Towards Data Science: https://towardsdatascience.com/podcast/home
 
 ### Clouds
 1. AWS: https://aws.amazon.com/
